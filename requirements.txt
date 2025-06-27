@@ -1,0 +1,10 @@
+transformers
+requests
+Pillow
+fastapi
+nest_asyncio
+pyngrok
+uvicorn
+openai
+huggingface_hub
+python-dotenv
