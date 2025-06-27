@@ -7,5 +7,6 @@ This project uses a Hugging Face VILT model in a FastAPI service. Originally bui
 
 1. Clone the repo  
 2. Create a `.env` file based on `.env.example`  
-3. Install dependencies:
+3. Install dependencies: `pip install -r requirements.txt`
+
 
